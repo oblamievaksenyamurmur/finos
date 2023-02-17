@@ -1,0 +1,51 @@
+{
+  "ref": "",
+  "timeZone": {
+    "checkEnabled": true,
+    "validValues": [
+      "Kaliningrad",
+      "Kirov",
+      "Moscow",
+      "Samara",
+      "Saratov",
+      "Volgograd",
+      "Yekaterinburg",
+      "Omsk",
+      "Barnaul",
+      "Krasnoyarsk",
+      "Novosibirsk",
+      "Irkutsk",
+      "Chita",
+      "Vladivostok",
+      "Magadan",
+      "Sakhalin",
+      "Srednekolymsk",
+      "Anadyr",
+      "Kamchatka"
+    ]
+  },
+  "locale": {
+    "checkEnabled": true,
+    "validValues": [
+      "ru"
+    ]
+  },
+  "mcc": {
+    "checkEnabled": false,
+    "validValues": [
+      "250"
+    ]
+  },
+  "brand": {
+    "checkEnabled": false,
+    "invalidValues": [
+      "google"
+    ]
+  },
+  "manufacturer": {
+    "checkEnabled": false,
+    "invalidValues": [
+      "Google"
+    ]
+  }
+}
